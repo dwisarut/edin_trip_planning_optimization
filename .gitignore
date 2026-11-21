@@ -1,1 +1,7 @@
 .venv
+
+CP-SAT.ipynb
+default_run.csv
+time_limited_run_1.csv
+time_limited_run_5.csv
+time_limited_run_15.csv
